@@ -1,5 +1,9 @@
 # WhatsApp-чат на GREEN-API (React)
 
+## Запуск
+
+Проект задеплоен на https://whatsapp-chat-green-api.vercel.app/
+
 ## Локальный запуск
 
 npm install
